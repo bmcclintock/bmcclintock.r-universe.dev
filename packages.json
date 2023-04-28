@@ -1,0 +1,10 @@
+[
+    {
+        "package": "momentuHMM",
+        "url": "https://github.com/bmcclintock/momentuHMM"
+    },
+    {
+        "package": "multimark",
+        "url": "https://github.com/bmcclintock/multimark"
+    }
+]
