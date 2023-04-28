@@ -1,7 +1,8 @@
 [
     {
         "package": "momentuHMM",
-        "url": "https://github.com/bmcclintock/momentuHMM"
+        "url": "https://github.com/bmcclintock/momentuHMM",
+        "branch" : "develop"
     },
     {
         "package": "multimark",
